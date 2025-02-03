@@ -1,0 +1,38 @@
+{
+    "Goa": {
+      "places_to_visit": [
+        {"name": "Baga Beach", "description": "A popular beach known for its vibrant nightlife."},
+        {"name": "Anjuna Market", "description": "A famous flea market with unique handicrafts."}
+      ],
+      "restaurants": [
+        {"name": "Taj Exotica", "cuisine": "Indian", "description": "Luxury dining experience.", "price_range": "$$$"},
+        {"name": "Mama's Kitchen", "cuisine": "Seafood", "description": "Best seafood in Goa.", "price_range": "$$"}
+      ],
+      "famous_foods": [
+        {"name": "Fish Curry", "description": "A traditional Goan dish made with fresh fish."},
+        {"name": "Sorpotel", "description": "A spicy pork dish native to Goa."}
+      ],
+      "hotels": [
+        {"name": "Leela Palace", "rating": 5, "price_range": "$$$", "description": "Luxury hotel with ocean views."},
+        {"name": "Hotel Sea Pearl", "rating": 4, "price_range": "$$", "description": "Affordable beachfront hotel."}
+      ]
+    },
+    "Paris": {
+      "places_to_visit": [
+        {"name": "Eiffel Tower", "description": "An iconic landmark of Paris."},
+        {"name": "Louvre Museum", "description": "World's largest art museum."}
+      ],
+      "restaurants": [
+        {"name": "Chez L'Ami Jean", "cuisine": "French", "description": "Traditional French cuisine.", "price_range": "$$$"},
+        {"name": "Le Comptoir du Relais", "cuisine": "French", "description": "Casual bistro with excellent food.", "price_range": "$$"}
+      ],
+      "famous_foods": [
+        {"name": "Croissant", "description": "A buttery, flaky pastry."},
+        {"name": "Ratatouille", "description": "A classic Provençal stewed vegetable dish."}
+      ],
+      "hotels": [
+        {"name": "Shangri-La Hotel", "rating": 5, "price_range": "$$$", "description": "Luxury hotel with historic charm."},
+        {"name": "Hotel des Arts", "rating": 4, "price_range": "$$", "description": "Budget-friendly hotel in the heart of Paris."}
+      ]
+    }
+  }
